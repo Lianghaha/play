@@ -1,3 +1,4 @@
 coco is qiuqiu
 
 string qiuqiu = "coco"
+string zuiqiuqiu = "liang"
